@@ -1,6 +1,6 @@
 # Sword
 天地劫系列重制版
-![](/Man/Client/Assets/screen.png)
+![](https://github.com/foxgame/Sword/blob/master/Man/Client/Assets/screen.png)
 
 
 该开源协议基于GPL。 
