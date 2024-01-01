@@ -11,7 +11,7 @@ iOS版本暂无。
 项目工程源码、BUG提交：https://github.com/foxgame/Sword
 
 B站xStudios主页：https://space.bilibili.com/1465895128
-
+游戏研发业务联系微信：fox526594
 
 免则声明：
 本人提供项目资源文件只供学习使用，
