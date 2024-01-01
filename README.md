@@ -3,10 +3,13 @@
 ![](https://github.com/foxgame/Sword/blob/master/Man/Client/Assets/screen.png)
 
 ---------------------------------------------------------------------------
-添加微信号gmxxxx1捐赠获得IOS TF测试邀请码 及Android解锁！
+无须激活，永久免费。
 
-测试版下载
-http://download.dynasty.xin
+下载地址：https://pan.baidu.com/s/1nRkvukwcfabMy5z1kzWdjA?pwd=cs3e 
+iOS版本暂无。
+
+项目工程源码、BUG提交：https://github.com/foxgame/Sword
+B站xStudios主页：https://space.bilibili.com/1465895128
 
 ---------------------------------------------------------------------------
 2020/7/10
